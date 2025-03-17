@@ -95,5 +95,6 @@ Open [http://localhost:3000](http://localhost:3000) to view the gallery in your 
 - **Change Lighting**: Edit `components/Scene.tsx` for custom lighting effects
 - **Customize UI Theme**: Modify `app/globals.css` for new styles
 
+Feel free to Fork and do the changes...<3
 ---
 
